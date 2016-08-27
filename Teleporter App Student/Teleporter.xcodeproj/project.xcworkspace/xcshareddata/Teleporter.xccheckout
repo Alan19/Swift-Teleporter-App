@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>D0D86605-F8DD-4F7D-A813-718BAEDBF223</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Teleporter</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>99B85A8ED8F06DE8B034FE381138282A647EB177</key>
+		<string>https://github.com/CodeNowOrg/Swift-Curriculum.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Christine/Basic App/Teleporter.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>99B85A8ED8F06DE8B034FE381138282A647EB177</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/CodeNowOrg/Swift-Curriculum.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>99B85A8ED8F06DE8B034FE381138282A647EB177</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>99B85A8ED8F06DE8B034FE381138282A647EB177</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Swift-Curriculum</string>
+		</dict>
+	</array>
+</dict>
+</plist>
